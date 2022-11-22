@@ -1,0 +1,15 @@
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.exe
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.deps.json
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.runtimeconfig.json
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.dll
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\bin\Debug\net6.0\Example001_HellowConsole.pdb
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.AssemblyReference.cache
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfoInputs.cache
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.AssemblyInfo.cs
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.csproj.CoreCompileInputs.cache
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.dll
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\refint\Example001_HellowConsole.dll
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.pdb
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\Example001_HellowConsole.genruntimeconfig.cache
+D:\мои кей Новая папка\GIT 1 четверть\C#_Lection\Example001_HellowConsole\obj\Debug\net6.0\ref\Example001_HellowConsole.dll
